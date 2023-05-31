@@ -1,8 +1,8 @@
-import React from 'react';
 import './App.css';
+import Test from "./test/Test";
 
 export default function App() {
   return (<div>
-    Hello World!
+    <Test />
   </div>);
 }
